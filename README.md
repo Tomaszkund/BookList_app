@@ -3,4 +3,4 @@
 ## I Used classes, local storage, bootstrap. 
 
 
-https://tomaszkund.github.io/booklist_app/
+https://tomaszkund.github.io/BookList_app/
